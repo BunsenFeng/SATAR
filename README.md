@@ -17,7 +17,5 @@ Codes of experiments on TwiBot-20 and two other datasets are listed in ./exp1_bo
 #### TwiBot-20 Dataset
 TwiBot-20 is a comprehensive sample of the Twittersphere and it is representative of the current generation of Twitter bots and genuine users. It is naturally divided into four domains: politics, business, entertainment and sports and each user has semantics, property and neiborhood information. You can find more information about Twibot-20 in the paper 'TwiBot-20: A Novel Benchmark for Twitter Bot Detection' or visit https://github.com/BunsenFeng/TwiBot-20.
 
-We provide an example of Twibot-20 in `TwiBot-20_sample.json` and the link of the whole dataset. If you want to download and use the whole dataset, please contact us via email xxx@yy.com to obtain permission due to privacy issues.(currently anonymous for that the paper is under review)
-
 
 
